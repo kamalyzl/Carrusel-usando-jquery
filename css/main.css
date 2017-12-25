@@ -1,0 +1,43 @@
+*{
+    background-color: #333;
+    text-align: center;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif, cursive;
+    color: white;
+}
+
+img {
+    width: 45%;
+    border-radius: 10px;
+    border: 10px solid #987;
+    height: 60vh;
+}
+
+.carrusel-conten {
+    display: none;
+}
+
+.carrusel-conten.active {
+    display: block;
+}
+
+.control {
+    width: 20px;
+    height: 20px;
+    margin: 10px;
+    border: 1px solid white;
+    border-radius: 50%;
+    outline: none;
+}
+
+.previous , .next {
+    color: white;
+    margin: 10px 30px;
+}
+
+.control:hover, .previous:hover, .next:hover{
+    background-color: aqua;
+    border: 1px solid aqua;
+}
