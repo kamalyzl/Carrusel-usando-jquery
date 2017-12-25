@@ -1,10 +1,10 @@
-# LYFT
+# Carrusel
 
 
 * **Descripcion General:** _Crear un carrucel_
 * **Ejercicio** 
 * **Contenido** 
-* **Visualiza el restultado final** : 
+* **Visualiza el restultado final** : https://kamalyzl.github.io/Carrusel-usando-jquery/
 ***
 
 
